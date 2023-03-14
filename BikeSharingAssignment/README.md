@@ -45,7 +45,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@udayrangta89] - feel free to contact me!
+Created by [https://github.com/udayrangta89] - feel free to contact me!
 
 
 <!-- Optional -->
